@@ -1,16 +1,47 @@
-# React + Vite
+# Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive personal portfolio website built using React and Vite to showcase my projects, skills, certifications, and education.
 
-Currently, two official plugins are available:
+## Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+🔗 Live Website: [https://your-vercel-link.vercel.app](https://portfolio-website-seven-xi-66.vercel.app/)
 
-## React Compiler
+## GitHub Repository
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+💻 Repository: https://github.com/sai-koushik-99/Portfolio-Website
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Features
+
+- Responsive modern UI
+- Smooth scrolling animations
+- Project showcase section
+- Skills section
+- Certifications section
+- Education timeline
+- Reusable React components
+- Optimized Vite setup
+
+---
+
+## Tech Stack
+
+- React.js
+- Vite
+- JavaScript
+- CSS3
+- HTML5
+
+---
+
+## Project Structure
+
+```bash
+src/
+ ├── assets/
+ ├── components/
+ ├── data/
+ ├── hooks/
+ ├── App.jsx
+ ├── main.jsx
